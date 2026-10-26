@@ -1,0 +1,24 @@
+{
+  "name": "parcial2-brayan-batres",
+  "version": "1.0.0",
+  "description": "Carrera: Ingeniería en Desarrollo de Software",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bray680/segundo-parcial-brayan-batres.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/bray680/segundo-parcial-brayan-batres/issues"
+  },
+  "homepage": "https://github.com/bray680/segundo-parcial-brayan-batres#readme",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
